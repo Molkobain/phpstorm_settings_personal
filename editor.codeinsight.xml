@@ -1,3 +1,6 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="iTop" />
 </application>
