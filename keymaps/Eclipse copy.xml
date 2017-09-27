@@ -11,6 +11,12 @@
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="GotoBookmark8" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
