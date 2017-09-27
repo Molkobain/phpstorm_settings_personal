@@ -3,6 +3,15 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
   </component>
