@@ -10,4 +10,8 @@
   </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="GotoBookmark8" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
 </keymap>
