@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="prt" value="echo '&lt;pre&gt;';&#10;print_r($END$);&#10;echo '&lt;/pre&gt;';" description="print_r statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
