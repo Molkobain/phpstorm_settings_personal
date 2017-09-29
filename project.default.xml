@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="sshConsole" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
