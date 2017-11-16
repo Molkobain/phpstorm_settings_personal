@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0cf99377-8fdd-476d-8a17-18f690e9f7df" name="Home-Cortex" url="http://pc-guillaume/home-cortex/web/">
+      <webServer id="0cf99377-8fdd-476d-8a17-18f690e9f7df" name="iTop pro 2.4.0" url="http://pc-guillaume/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
