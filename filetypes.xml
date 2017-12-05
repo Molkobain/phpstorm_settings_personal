@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
+      <mapping ext="param" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
