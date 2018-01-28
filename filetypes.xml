@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
+      <mapping ext="params" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
