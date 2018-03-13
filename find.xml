@@ -3,7 +3,6 @@
     <option name="customScope" value="JS widgets" />
     <option name="defaultScopeName" value="JS widgets" />
     <option name="SEARCH_SCOPE" value="JS widgets" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
