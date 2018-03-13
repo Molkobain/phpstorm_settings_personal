@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="JS widgets" />
     <option name="defaultScopeName" value="JS widgets" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="JS widgets" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,9 +22,9 @@
       <mask>en.*.</mask>
       <mask>en.*.p</mask>
       <mask>en.*.ph</mask>
-      <mask>*.php</mask>
       <mask>en.*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
