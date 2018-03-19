@@ -22,8 +22,8 @@
       <mask>en.*.p</mask>
       <mask>en.*.ph</mask>
       <mask>en.*.php</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
