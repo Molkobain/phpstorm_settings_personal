@@ -1,29 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="JS widgets" />
-    <option name="defaultScopeName" value="JS widgets" />
-    <option name="SEARCH_SCOPE" value="JS widgets" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>mod*.php</mask>
-      <mask>modul*.php</mask>
-      <mask>e</mask>
-      <mask>en</mask>
-      <mask>en.</mask>
-      <mask>en.*</mask>
-      <mask>en.*.</mask>
-      <mask>en.*.p</mask>
-      <mask>en.*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>en.*.php</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
