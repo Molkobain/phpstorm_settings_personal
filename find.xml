@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk-sf]'" />
-    <option name="defaultScopeName" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk-sf]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk-sf]'" />
+    <option name="customScope" value="Directory '...\sources [dev-trunk-sf]'" />
+    <option name="defaultScopeName" value="Directory '...\sources [dev-trunk-sf]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\sources [dev-trunk-sf]'" />
   </component>
 </application>
