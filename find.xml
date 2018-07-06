@@ -1,7 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\sources [dev-trunk-sf]'" />
-    <option name="defaultScopeName" value="Directory '...\sources [dev-trunk-sf]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\sources [dev-trunk-sf]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>en.*.php</mask>
   </component>
 </application>
