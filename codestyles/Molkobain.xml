@@ -69,6 +69,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="900" />
     <option name="BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
