@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/combodo-itop-libs/swiftmailer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/iTop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\wamp64\apps\itop\itop-libs" />
+    <option name="cloneParentDir" value="C:\wamp64\apps\itop" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
