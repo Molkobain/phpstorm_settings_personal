@@ -126,7 +126,6 @@
   </template>
   <template name="a-service-http" value="import { Injectable } from '@angular/core';&#10;import { Http, Response } from '@angular/http';&#10;import { Observable } from 'rxjs/Observable';&#10;import 'rxjs/add/operator/map';&#10;import 'rxjs/add/operator/catch';&#10;&#10;@Injectable()&#10;export class $ServiceName$Service {&#10; constructor(private http: Http) { }&#10; $END$&#10;}" description="Angular service with Http" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ServiceName" expression="" defaultValue="&quot;ServiceName&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-service-httpclient" value="import { Injectable } from '@angular/core';&#10;import { HttpClient } from '@angular/common/http';&#10;&#10;@Injectable()&#10;export class $ServiceName$Service {&#10; constructor(private httpClient: HttpClient) { }&#10; $END$&#10;}" description="Angular service with HttpClient" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ServiceName" expression="" defaultValue="&quot;ServiceName&quot;" alwaysStopAt="true" />
@@ -188,7 +187,6 @@
   </template>
   <template name="a-http-get" value="return this.http.get('$url$')&#10; .map((response: Response) =&gt; response.json());$END$" description="Angular Http.get" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="url" expression="" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-httpclient-get" value="return this.httpClient.get('$url$');$END$" description="Angular HttpClient.get" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="url" expression="" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
@@ -201,24 +199,14 @@
   </template>
   <template name="rx-add-observable" value="import 'rxjs/add/observable/$of$';&#10;$END$" description="RxJS Add Observable import" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="of" expression="" defaultValue="&quot;of&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="rx-add-operator" value="import 'rxjs/add/operator/$map$';&#10;$END$" description="RxJS Add Operator import" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="map" expression="" defaultValue="&quot;map&quot;" alwaysStopAt="true" />
-    <context />
   </template>
-  <template name="rx-behavior-subject" value="import { BehaviorSubject } from 'rxjs/BehaviorSubject';&#10;$END$" description="RxJS BehaviorSubject import" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="rx-observable" value="import { Observable } from 'rxjs/Observable';&#10;$END$" description="RxJS Observable import" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="rx-replay-subject" value="import { ReplaySubject } from 'rxjs/ReplaySubject';&#10;$END$" description="RxJS ReplaySubject import" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-  <template name="rx-subject" value="import { Subject } from 'rxjs/Subject';&#10;$END$" description="RxJS Subject import" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="rx-behavior-subject" value="import { BehaviorSubject } from 'rxjs/BehaviorSubject';&#10;$END$" description="RxJS BehaviorSubject import" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rx-observable" value="import { Observable } from 'rxjs/Observable';&#10;$END$" description="RxJS Observable import" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rx-replay-subject" value="import { ReplaySubject } from 'rxjs/ReplaySubject';&#10;$END$" description="RxJS ReplaySubject import" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="rx-subject" value="import { Subject } from 'rxjs/Subject';&#10;$END$" description="RxJS Subject import" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="a-subscribe" value="this.$service$.$function$&#10; .subscribe($arg$ =&gt; this.$property$ = $arg$);&#10;$END$" description="Angular observable subscribe" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="service" expression="" defaultValue="&quot;service&quot;" alwaysStopAt="true" />
     <variable name="function" expression="" defaultValue="&quot;function&quot;" alwaysStopAt="true" />
