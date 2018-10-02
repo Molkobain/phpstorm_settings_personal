@@ -26,6 +26,9 @@
     </option>
     <option name="cloneParentDir" value="C:\wamp64\apps\itop" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
   </component>
