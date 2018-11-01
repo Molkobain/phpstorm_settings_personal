@@ -14,6 +14,11 @@
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
