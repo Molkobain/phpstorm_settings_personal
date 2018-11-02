@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Dictionaries" />
+    <option name="defaultScopeName" value="Dictionaries" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Dictionaries" />
     <option name="FILE_MASK" value="en*.dict*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
