@@ -3,11 +3,8 @@
     <option name="customScope" value="Dictionaries" />
     <option name="defaultScopeName" value="Dictionaries" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Dictionaries" />
-    <option name="FILE_MASK" value="en*.dict*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +15,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>en.*.php</mask>
-    <mask>*.php</mask>
     <mask>*.dict*.php</mask>
     <mask>en*.dict*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
