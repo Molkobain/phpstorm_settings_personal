@@ -677,7 +677,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.0beta1">
+            <debugger_info debugger="xdebug" debugger_version="2.6.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
