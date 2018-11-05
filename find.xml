@@ -5,11 +5,10 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Dictionaries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -19,5 +18,6 @@
     <mask>*.dict*.php</mask>
     <mask>en*.dict*.php</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
