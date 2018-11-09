@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+</keymap>
