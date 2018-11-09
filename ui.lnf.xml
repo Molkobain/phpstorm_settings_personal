@@ -1,18 +1,7 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="UI_FILTER_LEGALS" value="true" />
-  </component>
   <component name="UISettings">
-    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="11" />
-    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
-    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

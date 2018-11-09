@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0cf99377-8fdd-476d-8a17-18f690e9f7df" name="Designer" url="http://pc-guillaume/itop/dev-designer-deployment">
-        <fileTransfer port="0" mountedRoot="C:\wamp64\apps\itop\dev-designer-deployment" accessType="MOUNT" />
+      <webServer id="0cf99377-8fdd-476d-8a17-18f690e9f7df" name="Home-Cortex" url="http://pc-guillaume/home-cortex/web/">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>

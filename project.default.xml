@@ -1,20 +1,74 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CopyrightManager">
+        <copyright>
+          <option name="notice" value="Copyright (c) 2015-&amp;#36;today.year Molkobain.&#10;&#10;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&#10;&#10;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&#10;&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
+          <option name="myName" value="Molkobain - MIT Free" />
+        </copyright>
+        <LanguageOptions name="XML">
+          <option name="fileTypeOverride" value="1" />
+          <option name="prefixLines" value="false" />
+        </LanguageOptions>
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="InspectionProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="JSLastCommaInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSLastCommaInObjectLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <option name="projectProfile" value="iTop" />
+        <option name="useProjectProfile" value="false" />
+        <option name="PROJECT_PROFILE" value="iTop" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
         <version value="1.0" />
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="Guillaume" />
+      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="sshConsole" />
+        <property name="last_opened_file_path" value="C:/wamp64/apps/itop/dev-trunk/phpunit.phar" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
       </component>
       <component name="SshConsoleOptionsProvider">
         <option name="myEncoding" value="UTF-8" />
         <option name="myConnectionType" value="NONE" />
       </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\Guillaume\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
       <component name="masterDetails">
         <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>Molkobain - MIT Free</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>
