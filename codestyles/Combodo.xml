@@ -25,10 +25,23 @@
     <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_AROUND_ADDITIVE_OPERATORS" value="false" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
