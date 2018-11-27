@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...\itop-datacenter-view [extensions]'" />
-    <option name="defaultScopeName" value="Directory '...\itop-datacenter-view [extensions]'" />
+    <option name="customScope" value="Directory '...\extensions\combodo-calendar-view [dev-trunk]'" />
+    <option name="defaultScopeName" value="Directory '...\extensions\combodo-calendar-view [dev-trunk]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\itop-datacenter-view [extensions]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\extensions\combodo-calendar-view [dev-trunk]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
