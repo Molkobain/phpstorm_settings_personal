@@ -14,5 +14,6 @@
     <mask>fr*.php</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>en.*</mask>
   </component>
 </application>
