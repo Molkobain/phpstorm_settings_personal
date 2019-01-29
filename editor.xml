@@ -1,6 +1,6 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
   </component>
 </application>
