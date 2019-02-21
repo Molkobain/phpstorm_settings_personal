@@ -22,6 +22,7 @@
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
@@ -80,7 +81,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
