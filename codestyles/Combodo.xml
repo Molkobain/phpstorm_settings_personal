@@ -82,8 +82,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
