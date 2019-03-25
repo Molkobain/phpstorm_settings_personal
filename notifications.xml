@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Debugger" displayType="NONE" />
     <notification groupId="IDE and Plugin Updates" shouldLog="false" />
   </component>
 </application>
