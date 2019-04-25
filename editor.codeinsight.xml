@@ -3,7 +3,7 @@
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Molkobain" />
+  <component name="DaemonCodeAnalyzerSettings" profile="iTop" />
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
