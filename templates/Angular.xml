@@ -179,7 +179,6 @@
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
     <variable name="name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
     <variable name="path" expression="" defaultValue="&quot;path&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-service" value="import { Injectable } from '@angular/core';&#10;&#10;@Injectable()&#10;export class $Name$Service {&#10;$END$&#10; constructor() { }&#10;}" description="Angular service" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
