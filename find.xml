@@ -19,7 +19,7 @@
     <mask>en.*.php</mask>
     <mask>fr.*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>de.*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
