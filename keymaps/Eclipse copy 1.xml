@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
+</keymap>
