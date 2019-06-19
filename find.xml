@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
-    <option name="defaultScopeName" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +19,10 @@
     <mask>hu.*.php</mask>
     <mask>fr.*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>nl.*.php</mask>
     <mask>de.*.php</mask>
     <mask>cs.*.php</mask>
     <mask>en.*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
