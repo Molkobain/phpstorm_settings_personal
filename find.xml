@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\itop-datacenter-view [extensions]'" />
-    <option name="defaultScopeName" value="Directory '...\itop-datacenter-view [extensions]'" />
+    <option name="customScope" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
+    <option name="defaultScopeName" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\itop-datacenter-view [extensions]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\itop-datacenter-view-extended [extensions]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
