@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\itop-datacenter-view-extended\src\molkobain-datacenter-view-extended\datamodel.molkobain-datacenter-view-extended.xml [extensions]'" />
-    <option name="defaultScopeName" value="File '...\itop-datacenter-view-extended\src\molkobain-datacenter-view-extended\datamodel.molkobain-datacenter-view-extended.xml [extensions]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\itop-datacenter-view-extended\src\molkobain-datacenter-view-extended\datamodel.molkobain-datacenter-view-extended.xml [extensions]'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
