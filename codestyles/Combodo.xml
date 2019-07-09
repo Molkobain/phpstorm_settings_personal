@@ -55,6 +55,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="500" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
