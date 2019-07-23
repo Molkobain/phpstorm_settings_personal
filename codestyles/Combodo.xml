@@ -7,6 +7,7 @@
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -48,6 +49,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="SPACE_AROUND_ADDITIVE_OPERATORS" value="false" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
