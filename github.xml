@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="518ed538-4d41-4301-b280-ba6b72d94de0" name="Molkobain">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="lajarige.guillaume@free.fr" />
     <option name="AUTH_TYPE" value="BASIC" />
