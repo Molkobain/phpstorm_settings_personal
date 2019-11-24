@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="ug-*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +13,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.js</mask>
     <mask>fr*.php</mask>
     <mask>en.*</mask>
     <mask>hu.*.php</mask>
@@ -26,5 +24,7 @@
     <mask>²²</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>ug-*.js</mask>
   </component>
 </application>
