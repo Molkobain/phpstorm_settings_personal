@@ -1,6 +1,6 @@
 <code_scheme name="Combodo" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="RIGHT_MARGIN" value="0" />
   <option name="SOFT_MARGINS" value="140" />
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,style,script,head" />
