@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\datamodels\2.x\combodo-db-tools'" />
-    <option name="defaultScopeName" value="Directory '...\datamodels\2.x\combodo-db-tools'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\datamodels\2.x\combodo-db-tools'" />
+    <option name="customScope" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk]'" />
+    <option name="defaultScopeName" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\datamodels\2.x\itop-portal-base [dev-trunk]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
