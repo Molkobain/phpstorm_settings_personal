@@ -1,8 +1,12 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="PHPT" injector-id="xml">
+    <injection language="SCSS" injector-id="php">
+      <display-name>&lt;&lt;&lt; SCSS</display-name>
+      <place><![CDATA[phpLiteralExpression("SCSS")]]></place>
+    </injection>
+    <injection language="InjectablePHP" injector-id="xml">
       <display-name>content</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().matches("<content>"))]]></place>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("content"))]]></place>
     </injection>
   </component>
 </application>

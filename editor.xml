@@ -1,6 +1,23 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Molkobain" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>

@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
       <mapping ext="params" type="PLAIN_TEXT" />
