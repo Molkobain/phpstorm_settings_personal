@@ -1,9 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="PHPT" injector-id="xml">
+      <display-name>content</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().matches("<content>"))]]></place>
+    </injection>
   </component>
 </application>
