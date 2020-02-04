@@ -9,7 +9,7 @@
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("content"))]]></place>
     </injection>
     <injection language="InjectablePHP" injector-id="xml">
-      <display-name>iTop - Method code</display-name>
+      <display-name>iTop - Class method code</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("code"))]]></place>
       <xpath-condition>//class/methods/method/code</xpath-condition>
     </injection>
