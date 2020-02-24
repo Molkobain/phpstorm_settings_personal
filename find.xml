@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>cs.*.php</mask>
     <mask>en.*.php</mask>
     <mask>²²</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>ug-*.js</mask>
     <mask>fr*.php</mask>
@@ -26,5 +26,6 @@
     <mask>fr.dict*.php</mask>
     <mask>*dict*.php</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
