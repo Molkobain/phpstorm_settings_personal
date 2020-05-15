@@ -8,6 +8,9 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Molkobain" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
