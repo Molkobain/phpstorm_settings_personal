@@ -5,6 +5,7 @@
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
       <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="z" type="PLAIN_TEXT" />
