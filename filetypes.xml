@@ -5,10 +5,10 @@
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
       <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="z" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
