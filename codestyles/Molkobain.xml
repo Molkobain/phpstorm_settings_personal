@@ -42,6 +42,7 @@
   </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -194,6 +195,7 @@
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
@@ -201,6 +203,7 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
