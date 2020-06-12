@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="fr.dict*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,8 +26,8 @@
     <mask>en*dict*.php</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>fr.dict*.php</mask>
     <mask>*dict*.php</mask>
     <mask>*.twig*</mask>
+    <mask>fr.dict*.php</mask>
   </component>
 </application>
