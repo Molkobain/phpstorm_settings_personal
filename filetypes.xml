@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ActionWebRequest" type="PHP" />
       <mapping pattern="PortalUIExtension" type="PHP" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
