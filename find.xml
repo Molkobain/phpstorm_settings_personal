@@ -24,12 +24,12 @@
     <mask>ug-*.js</mask>
     <mask>fr*.php</mask>
     <mask>*.yaml</mask>
-    <mask>en*dict*.php</mask>
     <mask>*dict*.php</mask>
     <mask>*.twig*</mask>
     <mask>*license*</mask>
     <mask>*.php</mask>
     <mask>fr.dict*.php</mask>
     <mask>*.xml</mask>
+    <mask>en*dict*.php</mask>
   </component>
 </application>
