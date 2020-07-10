@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,9 +28,9 @@
     <mask>*dict*.php</mask>
     <mask>*.twig*</mask>
     <mask>*license*</mask>
-    <mask>*.php</mask>
     <mask>fr.dict*.php</mask>
     <mask>*.xml</mask>
     <mask>en*dict*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
