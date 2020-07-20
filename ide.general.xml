@@ -15,5 +15,6 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.tooltip.initialDelay" value="810" />
+    <entry key="ide.usages.page.size" value="300" />
   </component>
 </application>
