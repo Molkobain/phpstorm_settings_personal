@@ -4,6 +4,8 @@
       <mapping pattern="ActionWebRequest" type="PHP" />
       <mapping pattern="PortalUIExtension" type="PHP" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
+      <mapping pattern="$PRODUCT_WORKSPACE_FILE$" type="PLAIN_TEXT" />
+      <mapping pattern="$CACHE_FILE$" type="PLAIN_TEXT" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
