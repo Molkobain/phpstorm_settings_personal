@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ActionWebRequest" type="PHP" />
       <mapping pattern="PortalUIExtension" type="PHP" />
-      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
-      <mapping pattern="$PRODUCT_WORKSPACE_FILE$" type="PLAIN_TEXT" />
-      <mapping pattern="$CACHE_FILE$" type="PLAIN_TEXT" />
+      <mapping pattern="ActionWebRequest" type="PHP" />
       <mapping pattern=".readonly" type="PLAIN_TEXT" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
+      <mapping pattern="$PRODUCT_WORKSPACE_FILE$" type="PLAIN_TEXT" />
+      <mapping pattern="$CACHE_FILE$" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="z" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
