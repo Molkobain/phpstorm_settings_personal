@@ -7,6 +7,7 @@
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping pattern="$PRODUCT_WORKSPACE_FILE$" type="PLAIN_TEXT" />
       <mapping pattern="$CACHE_FILE$" type="PLAIN_TEXT" />
+      <mapping pattern=".flooignore" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="param" type="PLAIN_TEXT" />
