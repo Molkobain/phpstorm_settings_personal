@@ -29,5 +29,6 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>en*dict*.php</mask>
+    <mask>fr*dict*.php</mask>
   </component>
 </application>
