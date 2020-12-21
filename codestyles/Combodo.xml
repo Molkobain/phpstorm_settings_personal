@@ -22,6 +22,7 @@
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_WHITESPACES" value="true" />
@@ -32,12 +33,6 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
-  <codeStyleSettings language="CSS">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -64,8 +59,6 @@
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="500" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
